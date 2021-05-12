@@ -1,4 +1,4 @@
-# RFID-Attendance-System-Proteus
+# RFID Attendance system on 8051 using proteus
 <a href="https://ibb.co/cyhp3kw"><img src="https://i.ibb.co/x2qcLXY/Proteus.png" alt="Proteus" border="0" align = "center"></a><br /><a target='_blank' href='https://imgbb.com/'>upload free images</a><br />
 - This Repository contains and RFID based Attendance system that was designed on proteus with an 8051 microcontroller
 - This will help as a reference to students who cannot understand Microcontroller
